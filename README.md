@@ -26,3 +26,6 @@ Cette application permet de surveiller en temps réel la variabilité de la fré
 3. Lancez l'application:
    ```bash
    python "Scan Garmin HRM Pro plus.py"
+
+## Capture d'écran
+<img width="1280" alt="HRVVisualTool-Screenshot" src="https://github.com/user-attachments/assets/205d6838-5a7e-48d7-b894-791671277507" />
