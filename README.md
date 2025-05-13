@@ -19,3 +19,10 @@ Cette application permet de surveiller en temps réel la variabilité de la fré
    ```bash
    git clone https://github.com/<votre-nom-utilisateur>/HRV-Monitor-App.git
    
+2. Installez les dépendances:
+   '''bash
+   pip install bleak matplotlib pandas
+
+3. Lancez l'application:
+
+   python "Scan Garmin HRM Pro plus.py"
